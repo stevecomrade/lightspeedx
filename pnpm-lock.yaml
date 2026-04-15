@@ -4,6 +4,7 @@ specifiers:
   '@types/react': ^19.2.14
   '@types/react-dom': ^19.2.3
   '@wxt-dev/module-react': ^1.1.5
+  prettier: 3.8.3
   react: ^19.2.4
   react-dom: ^19.2.4
   typescript: ^5.9.3
@@ -17,6 +18,7 @@ devDependencies:
   '@types/react': 19.2.14
   '@types/react-dom': 19.2.3_@types+react@19.2.14
   '@wxt-dev/module-react': 1.2.2_wxt@0.20.22
+  prettier: 3.8.3
   typescript: 5.9.3
   wxt: 0.20.22
 
@@ -2122,6 +2124,12 @@ packages:
   /powershell-utils/0.1.0:
     resolution: {integrity: sha512-dM0jVuXJPsDN6DvRpea484tCUaMiXWjuCn++HGTqUWzGDjv5tZkEZldAJ/UMlqRYGFrD/etByo4/xOuC/snX2A==}
     engines: {node: '>=20'}
+    dev: true
+
+  /prettier/3.8.3:
+    resolution: {integrity: sha512-7igPTM53cGHMW8xWuVTydi2KO233VFiTNyF5hLJqpilHfmn8C8gPf+PS7dUT64YcXFbiMGZxS9pCSxL/Dxm/Jw==}
+    engines: {node: '>=14'}
+    hasBin: true
     dev: true
 
   /process-nextick-args/2.0.1:
