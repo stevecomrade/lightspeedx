@@ -1,3 +1,12 @@
-# WXT + React
+# Lightspeed Extension
 
-This template should help get you started developing with React in WXT.
+High level purpose
+
+## Maybe install?
+@tanstack/react-query
+@trpc/client
+@trpc/react-query
+@trpc/server
+superjson
+zod
+drizzle
